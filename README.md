@@ -1,5 +1,6 @@
 # Color balance
-<img src="https://i.gyazo.com/94fc8cab52035e6c8199290f67c05513.gif" />
+
+<img src="https://gyazo.com/94fc8cab52035e6c8199290f67c05513" />
 
 ## Prerequisites
 You will need OpenCV, iPyWidgets and Jupyter for running the interactive notebook.
