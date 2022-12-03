@@ -13,6 +13,6 @@ Then simply execute jupyter and run all.
 ```bash
 git clone https://github.com/ggcr/color_balance.git
 cd color_balance
-jupyter notebook .
+jupyter notebook color_balance.ipynb
 ```
 
